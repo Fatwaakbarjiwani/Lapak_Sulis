@@ -9,13 +9,6 @@ const data = [
     Image: Image2,
   },
   {
-    id: 1,
-    name: "Celana Chinnos",
-    Harga: "Rp.25.000",
-    donation: 25000000,
-    Image: Image2,
-  },
-  {
     id: 2,
     name: "Celana Chinnos",
     Harga: "Rp.25.000",
