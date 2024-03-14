@@ -1,7 +1,7 @@
 import Navbar from "../components/Navbar";
 import Bg from "../assets/Bg.jpg";
 import celana from "../assets/celana1.png";
-import Animasi from "../components/animasi";
+import Motion from "../components/Motion";
 import data from "../data";
 import logo from "../assets/iconlogo.png";
 import ig from "../assets/ig.png";
@@ -43,7 +43,7 @@ export default function HomePage() {
         </div>
       </div>
       <div>
-        <Animasi />
+        <Motion />
       </div>
       {/* content */}
       <div className="text-4xl md:text-3xl font-black text-orange-600 px-5 my-2 md:px-10 md:my-10">

@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-export default function Animasi() {
+export default function Motion() {
   return (
     <div style={{ overflow: "hidden" }} className="bg-black py-3">
       <motion.div
